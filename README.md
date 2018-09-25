@@ -1,8 +1,5 @@
-# Assignment 3
+# Final - Team Project 
 
-**Assignment due at 11:59pm on Monday 6/4/2018**
-
-**Demo due by 5:00pm on Friday 6/15/2018**
 
 The goals of this assignment are to use MongoDB to store application data and to start incorporating security features into our API.  There are a few parts to this assignment, as described below.
 
